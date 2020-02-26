@@ -1,3 +1,4 @@
+ #coding=utf-8
 import sys
 from jd_mask_spider_requests import Jd_Mask_Spider
 
